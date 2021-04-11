@@ -7,18 +7,13 @@ jobs:
     name: Commit
     runs-on: ubuntu-18.04
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
       - run: |
           mkdir pdf 2 > /dev/null # create output dir
-      - name: Compile to pdf
       - uses: docker://pandoc/latex:2.9
         with:
           args: --pdf-engine=xelatex --from=markdown+tex_math_single_backslash+tex_math_dollars+raw_tex -t latex -o pdf/sheet_to_leet.pdf -s sheet_to_leet.md
-
-      - name: Update source code
-        run: eslint "src/**" --fix
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
