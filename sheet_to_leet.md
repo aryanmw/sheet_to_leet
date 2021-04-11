@@ -60,6 +60,7 @@ urlcolor: 'blue'
   [LeetCode](https://leetcode.com/problems/single-number/)
   [LeetCode](https://leetcode.com/problems/single-number-ii/)
   
+
 - Best time to buy stock:
   [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
@@ -68,3 +69,8 @@ urlcolor: 'blue'
 - Maximum water trapped in histograms  
   [Leetcode](https://leetcode.com/problems/trapping-rain-water/)
   [GFG](https://www.geeksforgeeks.org/trapping-rain-water/)
+
+ ## Stacks
+ - Largest Rectangle in histogram :
+   [Leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
