@@ -59,3 +59,12 @@ urlcolor: 'blue'
 - Find the Number Occurring Odd Number of Times:
   [LeetCode](https://leetcode.com/problems/single-number/)
   [LeetCode](https://leetcode.com/problems/single-number-ii/)
+  
+- Best time to buy stock:
+  [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+  
+- Maximum water trapped in histograms  
+  [Leetcode](https://leetcode.com/problems/trapping-rain-water/)
+  [GFG](https://www.geeksforgeeks.org/trapping-rain-water/)
