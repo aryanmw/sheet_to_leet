@@ -55,3 +55,7 @@ urlcolor: 'blue'
 
 - Rotate Image by 90 degrees:
   [LeetCode](https://leetcode.com/problems/rotate-image/)
+  
+- Find the Number Occurring Odd Number of Times:
+  [LeetCode](https://leetcode.com/problems/single-number/)
+  [LeetCode](https://leetcode.com/problems/single-number-ii/)
