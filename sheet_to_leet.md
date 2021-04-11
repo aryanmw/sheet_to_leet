@@ -59,3 +59,7 @@ urlcolor: 'blue'
 - Find the Number Occurring Odd Number of Times:
   [LeetCode](https://leetcode.com/problems/single-number/)
   [LeetCode](https://leetcode.com/problems/single-number-ii/)
+  
+  ## Stacks
+  - Largest Rectangle in histogram :
+    [Leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
