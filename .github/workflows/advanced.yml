@@ -11,7 +11,7 @@ jobs:
           mkdir pdf # create output dir
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --pdf-engine=xelatex --from=markdown+tex_math_single_backslash+tex_math_dollars+raw_tex -t latex -output=pdf/sheet_to_leet.pdf -s sheet_to_leet.md
+          args: --pdf-engine=xelatex --from=markdown+tex_math_single_backslash+tex_math_dollars+raw_tex -t latex -o pdf/sheet_to_leet.pdf -s sheet_to_leet.md
       - uses: actions/upload-artifact@master
         with:
           name: pdf
