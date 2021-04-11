@@ -1,7 +1,6 @@
 ---
 title: DSA Sheet to Leetcode map
 <!-- date: \today -->
-author: Dipesh Kafle
 bibliography: 'bibliography.bib'
 link-citations: true
 urlcolor: 'blue'
